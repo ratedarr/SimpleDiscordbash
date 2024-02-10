@@ -2,4 +2,5 @@
 
 `chmod +x dscd.sh`
 
-` ./dscd -m "message" -channelname -red `
+`./dscd.sh -m "message" -channelname -red `
+
